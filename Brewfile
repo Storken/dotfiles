@@ -59,6 +59,7 @@ cask 'slack'
 cask 'the-unarchiver'
 cask 'visual-studio-code'
 cask 'vlc'
+cask 'ngrok'
 
 # Quicklook
 cask 'qlcolorcode'
